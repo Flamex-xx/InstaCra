@@ -8,8 +8,8 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/en/packa
     $ pkg update && pkg upgrade
     $ pkg install python git
     $ pkg install play-audio
-    $ rm -rf Xyra-Insta
-    $ git clone https://github.com/XyraaCode/Xyra-Insta
+    $ rm -rf InstaCra
+    $ https://github.com/Flamex-xx/InstaCra
 
 - Oke sekarang script sudah berhasil di ```install```
 
@@ -18,7 +18,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/en/packa
 sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan perintah dibawah ini
 
 
-    $ cd $HOME/Xyra-Insta
+    $ cd $HOME/InstaCra
     $ git pull
     $ python run.py
 

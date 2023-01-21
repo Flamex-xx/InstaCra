@@ -40,4 +40,3 @@ untuk versi sekarang hanya support di perangkat yang ```aarch64``` untuk mengece
 
 gunakanlah dengan ```bijak,``` atas apapun yang terjadi admin tidak ```bertanggung jawab.```
 
-<h5 align="left">Thanks for <a href="https://github.com/Xyaa-Code">Xyaa-Code</a> and <a href="https://github.com/AdtyaXC">Aditya XC</a></h5>
